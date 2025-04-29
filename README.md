@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Ramiro 👋</h1>
-<h3 align="center">Backend Developer | Go | Microservices | Docker | AWS | Cloud Native</h3>
+<h3 align="center">Backend Developer | Go | Microservices | Docker | AWS |</h3>
 
 <p align="center">
   <a href="https://ramiroschettino.netlify.app/" target="_blank">
