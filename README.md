@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Ramiro 👋</h1>
-<h3 align="center">Backend Developer | Go | Microservices | Docker | AWS |</h3>
+<h3 align="center">Backend Developer | Go, Java, Python, Node.js | Microservices | Docker | AWS |</h3>
 
 <p align="center">
   <a href="https://ramiroschettino.netlify.app/" target="_blank">
@@ -16,7 +16,7 @@
 
 Soy un desarrollador backend enfocado en **Go** y sistemas distribuidos.  
 Diseño servicios que escalan, se comunican de forma eficiente y se despliegan en la nube.  
-Me apasionan los entornos **cloud-native**, la automatización y las APIs bien diseñadas.  
+Me apasiona la automatización y las APIs bien diseñadas.  
 Siempre en busca de construir cosas que funcionen bien y se mantengan limpias 🧼
 
 ---
