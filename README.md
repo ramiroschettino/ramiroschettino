@@ -1,54 +1,42 @@
 <h1 align="center">Hola, soy Ramiro 👋</h1>
-<h3 align="center">Backend Developer | Go, Java, Python, Node.js | Microservices | Docker | AWS |</h3>
 
 <p align="center">
-  <a href="https://ramiroschettino.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portafolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Backend+Developer;Go+%7C+Python+%7C+Java;Building+AI+Powered+Solutions;Cloud+Architecture" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://ramiroschettino.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Web_Personal-ver_aquí-blue?style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/ramiroschettino/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### ✨ Sobre mí
+### ⚡ ¿Qué estoy haciendo?
 
-Soy un desarrollador backend enfocado en **Go** y sistemas distribuidos.  
-Diseño servicios que escalan, se comunican de forma eficiente y se despliegan en la nube.  
-Me apasiona la automatización y las APIs bien diseñadas.  
-Siempre en busca de construir cosas que funcionen bien y se mantengan limpias 🧼
+Soy un ingeniero de backend enfocado en la eficiencia. Actualmente estoy **integrando Inteligencia Artificial** en flujos de trabajo tradicionales para crear software más inteligente.
 
----
-
-### ⚙️ Stack Principal
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-3A3A3A?style=for-the-badge&logo=grpc&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+* 🔭 Trabajando principalmente con **Go** y microservicios.
+* 💡 Creando soluciones que combinan lógica de negocio robusta con **Modelos de Lenguaje (LLMs)**.
+* 🧼 Obsesionado con el código limpio y la automatización.
 
 ---
 
-### 📊 GitHub Stats
+### 💻 Tech Arsenal
+
+| Core | Cloud & DevOps | Data & AI |
+| :---: | :---: | :---: |
+| ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) <br> ![Node](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) <br> ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) | ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white) <br> ![OpenAI](https://img.shields.io/badge/AI_Integrations-412991?logo=openai&logoColor=white) |
+
+---
+
+### 📈 Mis Métricas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramiroschettino&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ramiroschettino&theme=tokyonight&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ramiroschettino&show_icons=true&theme=midnight-purple&hide_border=true" width="100%" />
 </p>
-
----
-
-### 📬 Contacto
-
-📫 **ramiroschettino@gmail.com**  
-🌐 [ramiroschettino.netlify.app](https://ramiroschettino.netlify.app)  
-🔗 [LinkedIn](https://www.linkedin.com/in/ramiroschettino/)
-
----
-
-> *"Keep it simple, scale it well."*
-
